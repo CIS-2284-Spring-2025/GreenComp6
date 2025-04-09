@@ -1,0 +1,6 @@
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\obj\Debug\net8.0\GreenComp6.csproj.AssemblyReference.cache
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\obj\Debug\net8.0\GreenComp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\obj\Debug\net8.0\GreenComp6.AssemblyInfoInputs.cache
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\obj\Debug\net8.0\GreenComp6.AssemblyInfo.cs
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\obj\Debug\net8.0\GreenComp6.csproj.CoreCompileInputs.cache
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\obj\Debug\net8.0\GreenComp6.MvcApplicationPartsAssemblyInfo.cache
