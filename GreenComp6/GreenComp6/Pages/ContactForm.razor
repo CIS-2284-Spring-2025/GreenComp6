@@ -7,7 +7,7 @@
 
 <h3>ContactForm</h3>
 
-<EditForm FormName="AssetForm" Model="@ContactForm" OnValidSubmit="HandleSubmit">
+<EditForm  Model="@contactForm" OnValidSubmit="HandleSubmit">
     <DataAnnotationsValidator />
     <ValidationSummary />
 
@@ -69,16 +69,25 @@
 </EditForm>
 
 @code {
-    [Required] public string FirstName { get; set; }
-    [Required] public string LastName { get; set; }
-    [MinLength(3)] public string CompanyName { get; set; }
-    public bool FinancialAdvice { get; set; }
-    public bool FreightForwarding { get; set; }
-    public bool InventoryAccounting { get; set; }
-    public string Remarks { get; set; }
-    [Required, EmailAddress] public string Email { get; set; }
-    [Required, Phone] public string PhoneNumber { get; set; }
-    [Required, Url] public string Website { get; set; }
-    public DateTime DateSubmitted { get; set; } = DateTime.Now;
+    private ContactFormModel contactForm = new ContactFormModel();
 
+    private void HandleSubmit()
+    {
+        
+    }
+
+    public class ContactFormModel
+    {
+        [Required] public string FirstName { get; set; }
+        [Required] public string LastName { get; set; }
+        [MinLength(3)] public string CompanyName { get; set; }
+        public bool FinancialAdvice { get; set; }
+        public bool FreightForwarding { get; set; }
+        public bool InventoryAccounting { get; set; }
+        public string Remarks { get; set; }
+        [Required, EmailAddress] public string Email { get; set; }
+        [Required, Phone] public string PhoneNumber { get; set; }
+        [Required, Url] public string Website { get; set; }
+        public DateTime DateSubmitted { get; set; } = DateTime.Now;
+    }
 }
