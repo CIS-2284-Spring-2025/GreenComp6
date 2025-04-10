@@ -170,3 +170,4 @@ C:\Users\Daria\source\GreenComp6\GreenInvestmentCalc\GreenInvestmentCalc\GreenIn
 C:\Users\Daria\source\GreenComp6\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc\obj\Debug\net8.0\GreenInvestmentCalc.pdb
 C:\Users\Daria\source\GreenComp6\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc\obj\Debug\net8.0\GreenInvestmentCalc.genruntimeconfig.cache
 C:\Users\Daria\source\GreenComp6\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc\obj\Debug\net8.0\ref\GreenInvestmentCalc.dll
+C:\Users\Daria\source\GreenComp6\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -86,12 +86,31 @@
 			Asset = new Asset
 				{
 					Id = 0,
-					Name = "",
+					Name = "John Smith",
 					EntryDate = DateTime.Now.AddYears(1),
 					ExitDate = DateTime.Now,
-					StartingValue = 0,
-					SalvageValue = 0
+					StartingValue = 1000,
+					SalvageValue = 1000
 				};
+		}
+		else
+		{
+			
+			Asset = Database.Asset.Find(Id ?? 0);
+
+			// Handle case where the asset isn't found
+			if (Asset == null)
+			{
+				Asset = new Asset
+					{
+						Id = Id ?? 0,
+						Name = "John Smith",
+						EntryDate = DateTime.Now.AddYears(-1),
+						ExitDate = DateTime.Now,
+						StartingValue = 1000,
+						SalvageValue = 1000
+					};
+			}
 		}
 		
 	}
