@@ -1,7 +1,9 @@
-using GreenInvestmentCalc.Components.Models;
+using SharedLibrary.Components.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
+
+
 
 namespace GreenInvestmentCalc.Data
 {

@@ -1,11 +1,10 @@
-using GreenInvestmentCalc.Client.Pages;
-using GreenInvestmentCalc.Components;
-using GreenInvestmentCalc.Components.Account;
-using GreenInvestmentCalc.Components.Models;
-using GreenInvestmentCalc.Data;
+using SharedLibrary.Data;
+using GreenInvestmentCalc.Authentication;
 using Microsoft.AspNetCore.Components.Authorization;
+using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+
 
 namespace GreenInvestmentCalc
 {
@@ -17,8 +16,8 @@ namespace GreenInvestmentCalc
 
             // Add services to the container.
             builder.Services.AddRazorComponents()
-                .AddInteractiveServerComponents()
-                .AddInteractiveWebAssemblyComponents();
+                .AddInteractiveServerComponents();
+               // .AddInteractiveWebAssemblyComponents();
 
             builder.Services.AddCascadingAuthenticationState();
             builder.Services.AddScoped<IdentityUserAccessor>();

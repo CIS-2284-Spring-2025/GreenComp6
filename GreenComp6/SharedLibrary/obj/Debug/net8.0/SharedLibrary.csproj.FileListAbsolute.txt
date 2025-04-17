@@ -1,0 +1,8 @@
+C:\Users\Daria\source\GreenComp6\GreenComp6\SharedLibrary\obj\Debug\net8.0\SharedLibrary.csproj.AssemblyReference.cache
+C:\Users\Daria\source\GreenComp6\GreenComp6\SharedLibrary\obj\Debug\net8.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daria\source\GreenComp6\GreenComp6\SharedLibrary\obj\Debug\net8.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\Daria\source\GreenComp6\GreenComp6\SharedLibrary\obj\Debug\net8.0\SharedLibrary.AssemblyInfo.cs
+C:\Users\Daria\source\GreenComp6\GreenComp6\SharedLibrary\obj\Debug\net8.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Daria\source\GreenComp6\GreenComp6\SharedLibrary\obj\Debug\net8.0\SharedLibrary.RazorAssemblyInfo.cache
+C:\Users\Daria\source\GreenComp6\GreenComp6\SharedLibrary\obj\Debug\net8.0\SharedLibrary.RazorAssemblyInfo.cs
+C:\Users\Daria\source\GreenComp6\GreenComp6\SharedLibrary\obj\Debug\net8.0\SharedLibrary.sourcelink.json

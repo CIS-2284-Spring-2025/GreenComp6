@@ -11,6 +11,8 @@
           "BlazorCharts": "0.4.108",
           "GreenInvestmentCalc.Client": "1.0.0",
           "Microsoft.AspNetCore.Components": "8.0.12",
+          "Microsoft.AspNetCore.Components.WebAssembly": "8.0.12",
+          "Microsoft.AspNetCore.Components.WebAssembly.DevServer": "8.0.13",
           "Microsoft.AspNetCore.Components.WebAssembly.Server": "8.0.12",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "8.0.12",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.12",
@@ -132,6 +134,7 @@
           }
         }
       },
+      "Microsoft.AspNetCore.Components.WebAssembly.DevServer/8.0.13": {},
       "Microsoft.AspNetCore.Components.WebAssembly.Server/8.0.12": {
         "runtime": {
           "lib/net8.0/Microsoft.AspNetCore.Components.WebAssembly.Server.dll": {
@@ -1025,6 +1028,13 @@
       "sha512": "sha512-4+/W7g01QlwcF/Jsn3FSoawo/+YCGdT2t3Up9URWd+EVBo3t8gE+wMCiVopHydoJTvQWadc6M9RJqlZ7a4p0Vg==",
       "path": "microsoft.aspnetcore.components.webassembly.authentication/8.0.12",
       "hashPath": "microsoft.aspnetcore.components.webassembly.authentication.8.0.12.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.WebAssembly.DevServer/8.0.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tDhRQNn0XDQwNNl3Tyw4B9hC692MnyFmyVObniAimXu5cva/Rw6tdGwxG3WqBm4ZjeXaxz9jwG1BEH/gz8AE8w==",
+      "path": "microsoft.aspnetcore.components.webassembly.devserver/8.0.13",
+      "hashPath": "microsoft.aspnetcore.components.webassembly.devserver.8.0.13.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Components.WebAssembly.Server/8.0.12": {
       "type": "package",

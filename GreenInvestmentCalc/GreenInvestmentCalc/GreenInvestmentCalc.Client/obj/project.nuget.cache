@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LKFJWbDIn0c=",
+  "dgSpecHash": "TNgFWueD00k=",
   "success": true,
   "projectFilePath": "C:\\Users\\Daria\\source\\GreenComp6\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\GreenInvestmentCalc.Client.csproj",
   "expectedPackageFiles": [
@@ -40,15 +40,14 @@
     "C:\\Users\\Daria\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\microsoft.jsinterop\\8.0.12\\microsoft.jsinterop.8.0.12.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.12\\microsoft.jsinterop.webassembly.8.0.12.nupkg.sha512",
-    "C:\\Users\\Daria\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.13\\microsoft.net.illink.tasks.8.0.13.nupkg.sha512",
-    "C:\\Users\\Daria\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.2\\microsoft.net.sdk.webassembly.pack.9.0.2.nupkg.sha512",
+    "C:\\Users\\Daria\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.15\\microsoft.net.illink.tasks.8.0.15.nupkg.sha512",
+    "C:\\Users\\Daria\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.4\\microsoft.net.sdk.webassembly.pack.9.0.4.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
-    "C:\\Users\\Daria\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\Daria\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.13\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.13.nupkg.sha512"
+    "C:\\Users\\Daria\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []
 }

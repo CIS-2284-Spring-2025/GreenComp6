@@ -5,3 +5,7 @@ C:\Users\Daria\source\GreenComp6\GreenInvestmentCalc\GreenInvestmentCalc\GreenIn
 C:\Users\Daria\source\GreenComp6\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Daria\source\GreenComp6\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Daria\source\GreenComp6\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenComp6\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenComp6\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenComp6\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenComp6\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc.Client\obj\Debug\net8.0\staticwebassets.build.json
