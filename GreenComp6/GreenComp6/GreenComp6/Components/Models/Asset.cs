@@ -1,4 +1,8 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿//Name: Daria Green
+//Email: Dgreen50@cnm.edu
+//File: Asset.cs
+
+using System.ComponentModel.DataAnnotations;
 
 namespace GreenComp6.Components.Models
 {

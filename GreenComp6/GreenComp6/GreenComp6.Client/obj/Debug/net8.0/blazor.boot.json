@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "GreenComp6.Client",
   "resources": {
-    "hash": "sha256-v6KPfL2/l9DSDXbgzyDgPSLt2MjiBt6E7haUcBpdz/M=",
+    "hash": "sha256-KYnqGoDyls/ddeWIyYQuaLxM7eMCiRu+BSkhfZ+XxsY=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-ftpNqtARtVNE8ku5eB/jXoklb41UQ+EutUHfwmbNTBY="
     },
@@ -211,10 +211,10 @@
       "mscorlib.wasm": "sha256-BeLfFpg9iS3DkEdywsYY7sV6ML3knqkMaMq0JBEbWlw=",
       "netstandard.wasm": "sha256-VkjUtJ6DK5bFTc2JwwGHmQY3tBcNSC7zMSJXuiXcnJA=",
       "System.Private.CoreLib.wasm": "sha256-VIQEPUSb48N39LR+ncGDP5xU02xuRbyZU8MhMho26wQ=",
-      "GreenComp6.Client.wasm": "sha256-aDO/Qeqai1wpW1G1eRrixHRW+EEW4OALzlxCa8hioJ0="
+      "GreenComp6.Client.wasm": "sha256-kr3DgaWuQhTB4MCfZ6hbxP90DiT68wc6tjcsAP7Pcyg="
     },
     "pdb": {
-      "GreenComp6.Client.pdb": "sha256-TxIBsOzOf1hnlRrsXVKEnGFGqyTWx2UOuNH7KXS5CEM="
+      "GreenComp6.Client.pdb": "sha256-v8Aj/pMVcvc6dNWGu5KvMzHhhXtd0Up2S4c/VgrqSU4="
     }
   },
   "cacheBootResources": true,

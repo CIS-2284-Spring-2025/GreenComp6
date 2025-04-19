@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B484777-661D-4CAF-8D20-7A64EBCD7763}|GreenComp6\\GreenComp6.Client\\GreenComp6.Client.csproj|c:\\users\\daria\\source\\greencomp6\\greencomp6\\greencomp6\\greencomp6.client\\wwwroot\\spcustomcss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9B484777-661D-4CAF-8D20-7A64EBCD7763}|GreenComp6\\GreenComp6.Client\\GreenComp6.Client.csproj|solutionrelative:greencomp6\\greencomp6.client\\wwwroot\\spcustomcss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|c:\\users\\daria\\source\\greencomp6\\greencomp6\\greencomp6\\greencomp6\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|solutionrelative:greencomp6\\greencomp6\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B484777-661D-4CAF-8D20-7A64EBCD7763}|GreenComp6\\GreenComp6.Client\\GreenComp6.Client.csproj|c:\\users\\daria\\source\\greencomp6\\greencomp6\\greencomp6\\greencomp6.client\\pages\\servicesprovided.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B484777-661D-4CAF-8D20-7A64EBCD7763}|GreenComp6\\GreenComp6.Client\\GreenComp6.Client.csproj|solutionrelative:greencomp6\\greencomp6.client\\pages\\servicesprovided.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|c:\\users\\daria\\source\\greencomp6\\greencomp6\\greencomp6\\greencomp6\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|solutionrelative:greencomp6\\greencomp6\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|c:\\users\\daria\\source\\greencomp6\\greencomp6\\greencomp6\\greencomp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|solutionrelative:greencomp6\\greencomp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|c:\\users\\daria\\source\\greencomp6\\greencomp6\\greencomp6\\greencomp6\\components\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|solutionrelative:greencomp6\\greencomp6\\components\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B484777-661D-4CAF-8D20-7A64EBCD7763}|GreenComp6\\GreenComp6.Client\\GreenComp6.Client.csproj|c:\\users\\daria\\source\\greencomp6\\greencomp6\\greencomp6\\greencomp6.client\\pages\\marketingteamcontactform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B484777-661D-4CAF-8D20-7A64EBCD7763}|GreenComp6\\GreenComp6.Client\\GreenComp6.Client.csproj|solutionrelative:greencomp6\\greencomp6.client\\pages\\marketingteamcontactform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GreenComp6\\GreenComp6\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T04:28:31.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "GreenComp6\\GreenComp6\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T04:27:06.604Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -38,54 +60,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "spCustomCSS.css",
-              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.Client\\wwwroot\\spCustomCSS.css",
-              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6.Client\\wwwroot\\spCustomCSS.css",
-              "ToolTip": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.Client\\wwwroot\\spCustomCSS.css",
-              "RelativeToolTip": "GreenComp6\\GreenComp6.Client\\wwwroot\\spCustomCSS.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-19T02:35:04.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "servicesProvided.razor",
-              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.Client\\Pages\\servicesProvided.razor",
-              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6.Client\\Pages\\servicesProvided.razor",
-              "ToolTip": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.Client\\Pages\\servicesProvided.razor",
-              "RelativeToolTip": "GreenComp6\\GreenComp6.Client\\Pages\\servicesProvided.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T02:27:07.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6\\Program.cs",
-              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6\\Program.cs",
-              "ToolTip": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6\\Program.cs",
-              "RelativeToolTip": "GreenComp6\\GreenComp6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T02:11:15.657Z",
+              "Title": "MarketingTeamContactForm.razor",
+              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.Client\\Pages\\MarketingTeamContactForm.razor",
+              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6.Client\\Pages\\MarketingTeamContactForm.razor",
+              "ToolTip": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.Client\\Pages\\MarketingTeamContactForm.razor",
+              "RelativeToolTip": "GreenComp6\\GreenComp6.Client\\Pages\\MarketingTeamContactForm.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T03:08:32.788Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Asset.cs",
-              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6\\Components\\Models\\Asset.cs",
-              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6\\Components\\Models\\Asset.cs",
-              "ToolTip": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6\\Components\\Models\\Asset.cs",
-              "RelativeToolTip": "GreenComp6\\GreenComp6\\Components\\Models\\Asset.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T00:59:08.661Z"
             }
           ]
         }

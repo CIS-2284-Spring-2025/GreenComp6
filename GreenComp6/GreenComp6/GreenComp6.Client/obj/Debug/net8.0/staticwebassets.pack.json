@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\appsettings.json"
     },
     {
+      "Id": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.Client\\wwwroot\\css\\spCustomCSS.css",
+      "PackagePath": "staticwebassets\\css\\spCustomCSS.css"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.Client\\wwwroot\\images\\financeAdvice.jpg",
+      "PackagePath": "staticwebassets\\images\\financeAdvice.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.Client\\wwwroot\\images\\freightForward.jpg",
+      "PackagePath": "staticwebassets\\images\\freightForward.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.Client\\wwwroot\\images\\inventoryAccount.jpg",
+      "PackagePath": "staticwebassets\\images\\inventoryAccount.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GreenComp6.Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

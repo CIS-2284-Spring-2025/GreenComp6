@@ -14,7 +14,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="images\" />
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\financeAdvice.jpg" />
+    <None Include="wwwroot\images\freightForward.jpg" />
+    <None Include="wwwroot\images\inventoryAccount.jpg" />
   </ItemGroup>
 
 </Project>

@@ -3,3 +3,15 @@ C:\Users\Daria\OneDrive - Central New Mexico Community College\CNM\Spring 2025\C
 C:\Users\Daria\OneDrive - Central New Mexico Community College\CNM\Spring 2025\CIS 2284 - Net II - C#\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Daria\OneDrive - Central New Mexico Community College\CNM\Spring 2025\CIS 2284 - Net II - C#\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\staticwebassets.build.json

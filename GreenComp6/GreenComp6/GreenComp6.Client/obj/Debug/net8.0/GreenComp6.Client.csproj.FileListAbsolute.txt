@@ -1044,6 +1044,7 @@ C:\Users\Daria\OneDrive - Central New Mexico Community College\CNM\Spring 2025\C
 C:\Users\Daria\OneDrive - Central New Mexico Community College\CNM\Spring 2025\CIS 2284 - Net II - C#\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\compressed\7ef8u1rfze-krplxipxey.gz
 C:\Users\Daria\OneDrive - Central New Mexico Community College\CNM\Spring 2025\CIS 2284 - Net II - C#\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\compressed\cehbj68flw-0ehbeht6u6.gz
 C:\Users\Daria\OneDrive - Central New Mexico Community College\CNM\Spring 2025\CIS 2284 - Net II - C#\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\compressed\cdgcoktkkx-7si2bhsk8y.gz
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.js
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map
@@ -1052,6 +1053,8 @@ C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Deb
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js.map
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\emcc-props.json
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\GreenComp6.Client.pdb
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\GreenComp6.Client.wasm
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\icudt_CJK.dat
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\icudt_EFIGS.dat
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\icudt_no_CJK.dat
@@ -1297,6 +1300,7 @@ C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Deb
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Win32.Primitives.wasm.gz
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\System.Net.Requests.wasm.gz
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Metadata.wasm.gz
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\GreenComp6.Client.wasm.gz
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map.gz
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebSockets.wasm.gz
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\System.Security.AccessControl.wasm.gz
@@ -1322,6 +1326,8 @@ C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Deb
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\emcc-props.json.gz
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Encoding.wasm.gz
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Loader.wasm.gz
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json.gz
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\GreenComp6.Client.pdb.gz
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Channels.wasm.gz
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Primitives.wasm.gz
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Cng.wasm.gz
@@ -1452,12 +1458,6 @@ C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Deb
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\System.Private.CoreLib.wasm.gz
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipes.wasm.gz
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\System.Resources.Writer.wasm.gz
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\GreenComp6.Client.pdb
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\GreenComp6.Client.wasm
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\GreenComp6.Client.wasm.gz
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json.gz
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\wwwroot\_framework\GreenComp6.Client.pdb.gz
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\GreenComp6.Client.staticwebassets.runtime.json
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\GreenComp6.Client.staticwebassets.endpoints.json
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\bin\Debug\net8.0\GreenComp6.Client.dll
@@ -2073,9 +2073,9 @@ C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Deb
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\compressed\5tu0ns8ji8-tptq2av103.gz
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\compressed\n1msmdiimb-lfu7j35m59.gz
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\compressed\bwkgb4cshp-oyz0vx2fzb.gz
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\compressed\7ef8u1rfze-0yebf9qhtw.gz
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\compressed\cehbj68flw-na9deli5vb.gz
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\compressed\cdgcoktkkx-34s2dbprbg.gz
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\compressed\7ef8u1rfze-qhn6uymyt8.gz
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\compressed\cehbj68flw-bxtxfbnvae.gz
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\compressed\cdgcoktkkx-cr8e0o0tbb.gz
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\staticwebassets.build.endpoints.json
@@ -2085,7 +2085,6 @@ C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Deb
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GreenComp6.Client.props
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GreenComp6.Client.props
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\GreenCom.E34B580B.Up2Date
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\GreenComp6.Client.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6.Client\obj\Debug\net8.0\refint\GreenComp6.Client.dll

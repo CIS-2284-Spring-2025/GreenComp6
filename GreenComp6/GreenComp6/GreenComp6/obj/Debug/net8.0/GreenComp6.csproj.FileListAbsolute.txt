@@ -169,6 +169,23 @@ C:\Users\Daria\OneDrive - Central New Mexico Community College\CNM\Spring 2025\C
 C:\Users\Daria\OneDrive - Central New Mexico Community College\CNM\Spring 2025\CIS 2284 - Net II - C#\GreenComp6\GreenComp6\GreenComp6\obj\Debug\net8.0\GreenComp6.pdb
 C:\Users\Daria\OneDrive - Central New Mexico Community College\CNM\Spring 2025\CIS 2284 - Net II - C#\GreenComp6\GreenComp6\GreenComp6\obj\Debug\net8.0\GreenComp6.genruntimeconfig.cache
 C:\Users\Daria\OneDrive - Central New Mexico Community College\CNM\Spring 2025\CIS 2284 - Net II - C#\GreenComp6\GreenComp6\GreenComp6\obj\Debug\net8.0\ref\GreenComp6.dll
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\GreenComp6.exe
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\GreenComp6.dll
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\GreenComp6.Client.dll
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\GreenComp6.Client.staticwebassets.runtime.json
+C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\GreenComp6.Client.staticwebassets.endpoints.json
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\appsettings.json
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.dll
@@ -182,14 +199,10 @@ C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\BlazorDebugProxy\Newtonsoft.Json.dll
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\GreenComp6.Client.staticwebassets.runtime.json
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\GreenComp6.Client.staticwebassets.endpoints.json
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\GreenComp6.staticwebassets.runtime.json
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\GreenComp6.staticwebassets.endpoints.json
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\GreenComp6.exe
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\GreenComp6.deps.json
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\GreenComp6.runtimeconfig.json
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\GreenComp6.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\GreenComp6.pdb
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Humanizer.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
@@ -199,23 +212,15 @@ C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
@@ -231,9 +236,6 @@ C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.JSInterop.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\SQLitePCLRaw.core.dll
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\System.CodeDom.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -310,9 +312,7 @@ C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\GreenComp6.Client.dll
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\bin\Debug\net8.0\GreenComp6.Client.pdb
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\obj\Debug\net8.0\GreenComp6.csproj.AssemblyReference.cache
 C:\Users\Daria\source\GreenComp6\GreenComp6\GreenComp6\GreenComp6\obj\Debug\net8.0\GreenComp6.GeneratedMSBuildEditorConfig.editorconfig

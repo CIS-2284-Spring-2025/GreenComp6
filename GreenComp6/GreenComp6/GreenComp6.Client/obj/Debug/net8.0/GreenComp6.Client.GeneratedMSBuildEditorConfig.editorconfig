@@ -36,8 +36,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daria/source/GreenComp6/GreenComp6/GreenComp6/GreenComp6.Client/Pages/servicesProvided.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc2VydmljZXNQcm92aWRlZC5yYXpvcg==
+[C:/Users/Daria/source/GreenComp6/GreenComp6/GreenComp6/GreenComp6.Client/Pages/MarketingTeamContactForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFya2V0aW5nVGVhbUNvbnRhY3RGb3JtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daria/source/GreenComp6/GreenComp6/GreenComp6/GreenComp6.Client/Pages/ServicesProvided.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNQcm92aWRlZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Daria/source/GreenComp6/GreenComp6/GreenComp6/GreenComp6.Client/RedirectToLogin.razor]
