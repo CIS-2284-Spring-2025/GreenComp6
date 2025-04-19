@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GreenComp6.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GreenComp6.cvspp3ol3y.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GreenComp6.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GreenComp6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GreenComp6.props",
+      "PackagePath": "build\\GreenComp6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GreenComp6.props",
+      "PackagePath": "buildMultiTargeting\\GreenComp6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GreenComp6.props",
+      "PackagePath": "buildTransitive\\GreenComp6.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,4 +1,4 @@
-using SharedLibrary.Data;
+using GreenInvestmentCalc.Data;
 using GreenInvestmentCalc.Authentication;
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Diagnostics;

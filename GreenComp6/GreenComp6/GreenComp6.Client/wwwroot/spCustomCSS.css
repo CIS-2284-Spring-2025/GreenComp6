@@ -1,0 +1,16 @@
+﻿h1 {
+    color: #2E86C1;
+    font-family: 'Arial', sans-serif;
+}
+
+div {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+img {
+    display: block;
+    margin: 10px auto;
+}

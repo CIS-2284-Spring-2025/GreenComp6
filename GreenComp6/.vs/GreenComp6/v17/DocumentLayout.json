@@ -3,15 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C8353AC-5CEE-4995-AF91-40E6D4E0568A}|GreenComp6\\GreenComp6.csproj|c:\\users\\daria\\source\\greencomp6\\greencomp6\\greencomp6\\greencomp6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9C8353AC-5CEE-4995-AF91-40E6D4E0568A}|GreenComp6\\GreenComp6.csproj|solutionrelative:greencomp6\\greencomp6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9B484777-661D-4CAF-8D20-7A64EBCD7763}|GreenComp6\\GreenComp6.Client\\GreenComp6.Client.csproj|c:\\users\\daria\\source\\greencomp6\\greencomp6\\greencomp6\\greencomp6.client\\wwwroot\\spcustomcss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9B484777-661D-4CAF-8D20-7A64EBCD7763}|GreenComp6\\GreenComp6.Client\\GreenComp6.Client.csproj|solutionrelative:greencomp6\\greencomp6.client\\wwwroot\\spcustomcss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF3CE406-6D21-0524-E753-4C663C1A136D}|..\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.csproj|c:\\users\\daria\\source\\greencomp6\\greeninvestmentcalc\\greeninvestmentcalc\\greeninvestmentcalc\\greeninvestmentcalc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9B484777-661D-4CAF-8D20-7A64EBCD7763}|GreenComp6\\GreenComp6.Client\\GreenComp6.Client.csproj|c:\\users\\daria\\source\\greencomp6\\greencomp6\\greencomp6\\greencomp6.client\\pages\\servicesprovided.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B484777-661D-4CAF-8D20-7A64EBCD7763}|GreenComp6\\GreenComp6.Client\\GreenComp6.Client.csproj|solutionrelative:greencomp6\\greencomp6.client\\pages\\servicesprovided.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68613FB1-E3A7-4312-85DC-2A2F8268107C}|SharedLibrary\\SharedLibrary.csproj|c:\\users\\daria\\source\\greencomp6\\greencomp6\\sharedlibrary\\sharedlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{68613FB1-E3A7-4312-85DC-2A2F8268107C}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\sharedlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|c:\\users\\daria\\source\\greencomp6\\greencomp6\\greencomp6\\greencomp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|solutionrelative:greencomp6\\greencomp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|c:\\users\\daria\\source\\greencomp6\\greencomp6\\greencomp6\\greencomp6\\components\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|solutionrelative:greencomp6\\greencomp6\\components\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,42 +38,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "spCustomCSS.css",
+              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.Client\\wwwroot\\spCustomCSS.css",
+              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6.Client\\wwwroot\\spCustomCSS.css",
+              "ToolTip": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.Client\\wwwroot\\spCustomCSS.css",
+              "RelativeToolTip": "GreenComp6\\GreenComp6.Client\\wwwroot\\spCustomCSS.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-19T02:35:04.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GreenInvestmentCalc.csproj",
-              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenComp6\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.csproj",
-              "RelativeDocumentMoniker": "..\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.csproj",
-              "ToolTip": "C:\\Users\\Daria\\source\\GreenComp6\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.csproj",
-              "RelativeToolTip": "..\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.csproj",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-17T18:39:55.568Z",
+              "Title": "servicesProvided.razor",
+              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.Client\\Pages\\servicesProvided.razor",
+              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6.Client\\Pages\\servicesProvided.razor",
+              "ToolTip": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.Client\\Pages\\servicesProvided.razor",
+              "RelativeToolTip": "GreenComp6\\GreenComp6.Client\\Pages\\servicesProvided.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T02:27:07.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SharedLibrary.csproj",
-              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\SharedLibrary\\SharedLibrary.csproj",
-              "RelativeDocumentMoniker": "SharedLibrary\\SharedLibrary.csproj",
-              "ToolTip": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\SharedLibrary\\SharedLibrary.csproj",
-              "RelativeToolTip": "SharedLibrary\\SharedLibrary.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-17T18:39:24.717Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6\\Program.cs",
+              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6\\Program.cs",
+              "ToolTip": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6\\Program.cs",
+              "RelativeToolTip": "GreenComp6\\GreenComp6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T02:11:15.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GreenComp6.csproj",
-              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.csproj",
-              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6.csproj",
-              "ToolTip": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.csproj",
-              "RelativeToolTip": "GreenComp6\\GreenComp6.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-13T01:06:00.557Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6\\Components\\Models\\Asset.cs",
+              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6\\Components\\Models\\Asset.cs",
+              "ToolTip": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6\\Components\\Models\\Asset.cs",
+              "RelativeToolTip": "GreenComp6\\GreenComp6\\Components\\Models\\Asset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T00:59:08.661Z"
             }
           ]
         }

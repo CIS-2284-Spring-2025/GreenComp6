@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GreenComp6.Client.props" />
+</Project>
