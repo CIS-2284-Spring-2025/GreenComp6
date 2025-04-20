@@ -13,14 +13,4 @@
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Authentication" Version="8.0.15" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="wwwroot\images\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="wwwroot\images\financeAdvice.jpg" />
-    <None Include="wwwroot\images\freightForward.jpg" />
-    <None Include="wwwroot\images\inventoryAccount.jpg" />
-  </ItemGroup>
-
 </Project>

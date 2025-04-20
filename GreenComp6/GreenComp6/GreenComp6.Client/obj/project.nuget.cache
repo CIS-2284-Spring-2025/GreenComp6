@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9zzOmvoXmYY=",
+  "dgSpecHash": "82OpKyGkKbQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.Client\\GreenComp6.Client.csproj",
+  "projectFilePath": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\GreenComp6\\GreenComp6\\GreenComp6.Client\\GreenComp6.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daria\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.15\\microsoft.aspnetcore.authorization.8.0.15.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.15\\microsoft.aspnetcore.components.8.0.15.nupkg.sha512",

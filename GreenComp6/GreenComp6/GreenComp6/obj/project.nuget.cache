@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M2jFWDUyY+8=",
+  "dgSpecHash": "uVyDID8T8/8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.csproj",
+  "projectFilePath": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daria\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.15\\microsoft.aspnetcore.authorization.8.0.15.nupkg.sha512",

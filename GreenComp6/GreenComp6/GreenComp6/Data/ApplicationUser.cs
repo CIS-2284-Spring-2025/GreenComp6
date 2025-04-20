@@ -1,7 +1,3 @@
-//Name: Daria Green
-//Email: Dgreen50@cnm.edu
-//File: ApplicationUser.cs
-
 using Microsoft.AspNetCore.Identity;
 
 namespace GreenComp6.Data
