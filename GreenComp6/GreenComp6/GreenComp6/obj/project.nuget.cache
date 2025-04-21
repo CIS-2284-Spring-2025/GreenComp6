@@ -1,13 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uSlgSFdLAp8=",
+  "dgSpecHash": "AiV3OSQxxf0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.csproj",
+  "projectFilePath": "C:\\Users\\Daria\\OneDrive\\Documents\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Daria\\.nuget\\packages\\aspnetcore.simpleemail\\1.0.6\\aspnetcore.simpleemail.1.0.6.nupkg.sha512",
-    "C:\\Users\\Daria\\.nuget\\packages\\bouncycastle.cryptography\\2.3.0\\bouncycastle.cryptography.2.3.0.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
-    "C:\\Users\\Daria\\.nuget\\packages\\mailkit\\4.4.0\\mailkit.4.4.0.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.15\\microsoft.aspnetcore.authorization.8.0.15.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.15\\microsoft.aspnetcore.components.8.0.15.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.15\\microsoft.aspnetcore.components.analyzers.8.0.15.nupkg.sha512",
@@ -58,7 +55,6 @@
     "C:\\Users\\Daria\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\microsoft.jsinterop\\8.0.15\\microsoft.jsinterop.8.0.15.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.15\\microsoft.jsinterop.webassembly.8.0.15.nupkg.sha512",
-    "C:\\Users\\Daria\\.nuget\\packages\\mimekit\\4.4.0\\mimekit.4.4.0.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
@@ -72,13 +68,11 @@
     "C:\\Users\\Daria\\.nuget\\packages\\system.composition.hosting\\6.0.0\\system.composition.hosting.6.0.0.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\system.composition.runtime\\6.0.0\\system.composition.runtime.6.0.0.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\system.composition.typedparts\\6.0.0\\system.composition.typedparts.6.0.0.nupkg.sha512",
-    "C:\\Users\\Daria\\.nuget\\packages\\system.formats.asn1\\8.0.0\\system.formats.asn1.8.0.0.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\system.reflection.metadata\\6.0.1\\system.reflection.metadata.6.0.1.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "C:\\Users\\Daria\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.0\\system.security.cryptography.pkcs.8.0.0.nupkg.sha512",
-    "C:\\Users\\Daria\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
+    "C:\\Users\\Daria\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512"
   ],
   "logs": []

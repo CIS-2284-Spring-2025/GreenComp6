@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GreenComp6.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5caf93aabf6d437ecaaebbe9857f94ea754704b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("GreenComp6.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GreenComp6.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
