@@ -125,4 +125,16 @@
         [Display(Name = "Remember me?")]
         public bool RememberMe { get; set; }
     }
+    var email = new Mail();
+    email.Sender = "Sender@gmail.com";
+    email.To = "Receiver@gmail.com";
+    email.CC.Add("cc@gmail.com");
+    email.Subject = "Subject of Email";
+    email.Body = "Message";
+
+    Provide sender credentials
+    email.Credentials(" Sender Email", "App Password");
+
+    Send the email asynchronously
+    email.SendAsync();
 }

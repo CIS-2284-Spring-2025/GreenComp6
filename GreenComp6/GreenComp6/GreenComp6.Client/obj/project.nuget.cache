@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Ugzv4AzluH4=",
+  "dgSpecHash": "/Q8jY61h5UU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daria\\OneDrive\\Documents\\GreenComp6\\GreenComp6\\GreenComp6.Client\\GreenComp6.Client.csproj",
+  "projectFilePath": "C:\\Users\\Daria\\source\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.Client\\GreenComp6.Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Daria\\.nuget\\packages\\aspnetcore.simpleemail\\1.0.6\\aspnetcore.simpleemail.1.0.6.nupkg.sha512",
+    "C:\\Users\\Daria\\.nuget\\packages\\bouncycastle.cryptography\\2.3.0\\bouncycastle.cryptography.2.3.0.nupkg.sha512",
+    "C:\\Users\\Daria\\.nuget\\packages\\mailkit\\4.4.0\\mailkit.4.4.0.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.15\\microsoft.aspnetcore.authorization.8.0.15.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.15\\microsoft.aspnetcore.components.8.0.15.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.15\\microsoft.aspnetcore.components.analyzers.8.0.15.nupkg.sha512",
@@ -31,7 +34,12 @@
     "C:\\Users\\Daria\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.15\\microsoft.jsinterop.webassembly.8.0.15.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.15\\microsoft.net.illink.tasks.8.0.15.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.4\\microsoft.net.sdk.webassembly.pack.9.0.4.nupkg.sha512",
-    "C:\\Users\\Daria\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
+    "C:\\Users\\Daria\\.nuget\\packages\\mimekit\\4.4.0\\mimekit.4.4.0.nupkg.sha512",
+    "C:\\Users\\Daria\\.nuget\\packages\\system.formats.asn1\\8.0.0\\system.formats.asn1.8.0.0.nupkg.sha512",
+    "C:\\Users\\Daria\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\Daria\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Daria\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.0\\system.security.cryptography.pkcs.8.0.0.nupkg.sha512",
+    "C:\\Users\\Daria\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
