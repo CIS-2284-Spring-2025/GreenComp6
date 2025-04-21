@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\GreenComp6\\",
+  "WorkspaceRootPath": "C:\\Users\\Daria\\OneDrive\\Documents\\GreenComp6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|c:\\users\\daria\\onedrive - central new mexico community college\\cnm\\spring 2025\\cis 2284 - net ii - c#\\greencomp6\\greencomp6\\greencomp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|c:\\users\\daria\\onedrive\\documents\\greencomp6\\greencomp6\\greencomp6\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|solutionrelative:greencomp6\\greencomp6\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|c:\\users\\daria\\onedrive\\documents\\greencomp6\\greencomp6\\greencomp6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|solutionrelative:greencomp6\\greencomp6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|c:\\users\\daria\\onedrive\\documents\\greencomp6\\greencomp6\\greencomp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|solutionrelative:greencomp6\\greencomp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|c:\\users\\daria\\onedrive - central new mexico community college\\cnm\\spring 2025\\cis 2284 - net ii - c#\\greencomp6\\greencomp6\\greencomp6\\components\\pages\\investmentcalculator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|solutionrelative:greencomp6\\greencomp6\\components\\pages\\investmentcalculator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|c:\\users\\daria\\onedrive\\documents\\greencomp6\\greencomp6\\greencomp6\\components\\pages\\assetdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|solutionrelative:greencomp6\\greencomp6\\components\\pages\\assetdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|c:\\users\\daria\\onedrive - central new mexico community college\\cnm\\spring 2025\\cis 2284 - net ii - c#\\greencomp6\\greencomp6\\greencomp6\\investmentcalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|solutionrelative:greencomp6\\greencomp6\\investmentcalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B484777-661D-4CAF-8D20-7A64EBCD7763}|GreenComp6\\GreenComp6.Client\\GreenComp6.Client.csproj|c:\\users\\daria\\onedrive\\documents\\greencomp6\\greencomp6\\greencomp6.client\\greencomp6.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B484777-661D-4CAF-8D20-7A64EBCD7763}|GreenComp6\\GreenComp6.Client\\GreenComp6.Client.csproj|solutionrelative:greencomp6\\greencomp6.client\\greencomp6.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B484777-661D-4CAF-8D20-7A64EBCD7763}|GreenComp6\\GreenComp6.Client\\GreenComp6.Client.csproj|c:\\users\\daria\\onedrive - central new mexico community college\\cnm\\spring 2025\\cis 2284 - net ii - c#\\greencomp6\\greencomp6\\greencomp6.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B484777-661D-4CAF-8D20-7A64EBCD7763}|GreenComp6\\GreenComp6.Client\\GreenComp6.Client.csproj|solutionrelative:greencomp6\\greencomp6.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|c:\\users\\daria\\onedrive - central new mexico community college\\cnm\\spring 2025\\cis 2284 - net ii - c#\\greencomp6\\greencomp6\\greencomp6\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|solutionrelative:greencomp6\\greencomp6\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|c:\\users\\daria\\onedrive - central new mexico community college\\cnm\\spring 2025\\cis 2284 - net ii - c#\\greencomp6\\greencomp6\\greencomp6\\components\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|solutionrelative:greencomp6\\greencomp6\\components\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|c:\\users\\daria\\onedrive\\documents\\greencomp6\\greencomp6\\greencomp6\\greencomp6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D39C199D-FB6F-4330-88A7-4DBAF2B23317}|GreenComp6\\GreenComp6\\GreenComp6.csproj|solutionrelative:greencomp6\\greencomp6\\greencomp6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,86 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\GreenComp6\\GreenComp6\\GreenComp6\\Program.cs",
-              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6\\Program.cs",
-              "ToolTip": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\GreenComp6\\GreenComp6\\GreenComp6\\Program.cs",
-              "RelativeToolTip": "GreenComp6\\GreenComp6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T02:11:15.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\GreenComp6\\GreenComp6\\GreenComp6.Client\\_Imports.razor",
-              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6.Client\\_Imports.razor",
-              "ToolTip": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\GreenComp6\\GreenComp6\\GreenComp6.Client\\_Imports.razor",
-              "RelativeToolTip": "GreenComp6\\GreenComp6.Client\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T01:41:15.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InvestmentCalculator.razor",
-              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\GreenComp6\\GreenComp6\\GreenComp6\\Components\\Pages\\InvestmentCalculator.razor",
-              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6\\Components\\Pages\\InvestmentCalculator.razor",
-              "ToolTip": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\GreenComp6\\GreenComp6\\GreenComp6\\Components\\Pages\\InvestmentCalculator.razor",
-              "RelativeToolTip": "GreenComp6\\GreenComp6\\Components\\Pages\\InvestmentCalculator.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T01:37:41.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InvestmentCalc.cs",
-              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\GreenComp6\\GreenComp6\\GreenComp6\\InvestmentCalc.cs",
-              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6\\InvestmentCalc.cs",
-              "ToolTip": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\GreenComp6\\GreenComp6\\GreenComp6\\InvestmentCalc.cs",
-              "RelativeToolTip": "GreenComp6\\GreenComp6\\InvestmentCalc.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T01:37:24.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\GreenComp6\\GreenComp6\\GreenComp6\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\GreenComp6\\GreenComp6\\GreenComp6\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "GreenComp6\\GreenComp6\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T01:33:20.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Asset.cs",
-              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\GreenComp6\\GreenComp6\\GreenComp6\\Components\\Models\\Asset.cs",
-              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6\\Components\\Models\\Asset.cs",
-              "ToolTip": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\GreenComp6\\GreenComp6\\GreenComp6\\Components\\Models\\Asset.cs",
-              "RelativeToolTip": "GreenComp6\\GreenComp6\\Components\\Models\\Asset.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T00:59:08.661Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -121,6 +43,79 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive\\Documents\\GreenComp6\\GreenComp6\\GreenComp6\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Daria\\OneDrive\\Documents\\GreenComp6\\GreenComp6\\GreenComp6\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GreenComp6\\GreenComp6\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T02:23:07.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive\\Documents\\GreenComp6\\GreenComp6\\GreenComp6\\appsettings.json",
+              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6\\appsettings.json",
+              "ToolTip": "C:\\Users\\Daria\\OneDrive\\Documents\\GreenComp6\\GreenComp6\\GreenComp6\\appsettings.json",
+              "RelativeToolTip": "GreenComp6\\GreenComp6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-21T00:09:32.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive\\Documents\\GreenComp6\\GreenComp6\\GreenComp6\\Program.cs",
+              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6\\Program.cs",
+              "ToolTip": "C:\\Users\\Daria\\OneDrive\\Documents\\GreenComp6\\GreenComp6\\GreenComp6\\Program.cs",
+              "RelativeToolTip": "GreenComp6\\GreenComp6\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T00:08:13.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssetDetails.razor",
+              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive\\Documents\\GreenComp6\\GreenComp6\\GreenComp6\\Components\\Pages\\AssetDetails.razor",
+              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6\\Components\\Pages\\AssetDetails.razor",
+              "ToolTip": "C:\\Users\\Daria\\OneDrive\\Documents\\GreenComp6\\GreenComp6\\GreenComp6\\Components\\Pages\\AssetDetails.razor",
+              "RelativeToolTip": "GreenComp6\\GreenComp6\\Components\\Pages\\AssetDetails.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T00:06:57.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GreenComp6.Client.csproj",
+              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive\\Documents\\GreenComp6\\GreenComp6\\GreenComp6.Client\\GreenComp6.Client.csproj",
+              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6.Client\\GreenComp6.Client.csproj",
+              "ToolTip": "C:\\Users\\Daria\\OneDrive\\Documents\\GreenComp6\\GreenComp6\\GreenComp6.Client\\GreenComp6.Client.csproj",
+              "RelativeToolTip": "GreenComp6\\GreenComp6.Client\\GreenComp6.Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-21T00:06:38.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GreenComp6.csproj",
+              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive\\Documents\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.csproj",
+              "RelativeDocumentMoniker": "GreenComp6\\GreenComp6\\GreenComp6.csproj",
+              "ToolTip": "C:\\Users\\Daria\\OneDrive\\Documents\\GreenComp6\\GreenComp6\\GreenComp6\\GreenComp6.csproj",
+              "RelativeToolTip": "GreenComp6\\GreenComp6\\GreenComp6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-21T00:06:33.487Z"
             }
           ]
         }

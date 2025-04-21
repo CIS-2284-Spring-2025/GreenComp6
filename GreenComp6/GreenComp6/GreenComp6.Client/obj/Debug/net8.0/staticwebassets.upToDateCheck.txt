@@ -1,0 +1,6 @@
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+wwwroot\css\spCustomCSS.css
+wwwroot\images\financeAdvice.jpg
+wwwroot\images\freightForward.jpg
+wwwroot\images\inventoryAccount.jpg

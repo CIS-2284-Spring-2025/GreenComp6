@@ -4,11 +4,6 @@ using GreenComp6.Data;
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using GreenComp6.Client.Pages;
-using GreenComp6.Components;
-using GreenComp6.Components.Account;
-using GreenComp6.Data;
-using static System.Net.Mime.MediaTypeNames;
 using GreenComp6;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -24,17 +19,21 @@ builder.Services.AddScoped<IdentityRedirectManager>();
 builder.Services.AddScoped<InvestmentCalc>();
 builder.Services.AddScoped<AuthenticationStateProvider, PersistingRevalidatingAuthenticationStateProvider>();
 
-builder.Services.AddAuthentication(options =>
-{
-    options.DefaultScheme = IdentityConstants.ApplicationScheme;
-    options.DefaultSignInScheme = IdentityConstants.ExternalScheme;
-})
-    .AddIdentityCookies();
+//builder.Services.AddAuthentication(options =>
+//{
+//    options.DefaultScheme = IdentityConstants.ApplicationScheme;
+//    options.DefaultSignInScheme = IdentityConstants.ExternalScheme;
+//})
+//    .AddIdentityCookies();
 
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlite("Data Source=data.db"));
+    options.UseSqlite(connectionString));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+
+builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
+    .AddEntityFrameworkStores<ApplicationDbContext>()
+    .AddDefaultTokenProviders();
 
 builder.Services.AddIdentityCore<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>()
@@ -61,7 +60,11 @@ else
 app.UseHttpsRedirection();
 
 app.UseStaticFiles();
+app.UseRouting(); // Ensure routing middleware is applied.
+app.UseAuthentication(); // Add authentication middleware.
+app.UseAuthorization(); // Add authorization middleware.
 app.UseAntiforgery();
+
 app.MapRazorComponents<App>()
     .AddInteractiveServerRenderMode()
     .AddInteractiveWebAssemblyRenderMode()
