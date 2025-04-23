@@ -34,5 +34,8 @@ namespace GreenComp6.Data
         }
     }
 
+    //TODO: You need DbSets for your models here. RJG
+    //public DbSet<T> NameOfYourModelPluralized { get; set; } 
 
+    //TODO: You will also need a web API controller in the server, a DAL that accesses the database directly in the server and a DAL that uses the web API controller in the client. RJG
 }
